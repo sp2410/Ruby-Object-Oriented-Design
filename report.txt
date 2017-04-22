@@ -1,0 +1,4 @@
+Alex: 42 miles @ 34 mph
+Dan: 30 miles @ 36 mph
+Bob: 0 miles @ 0 mph
+Saurav: 0 miles @ 0 mph
