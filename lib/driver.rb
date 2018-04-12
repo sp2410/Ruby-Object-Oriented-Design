@@ -9,7 +9,8 @@ class Driver
 		@new_total_miles = 0
 	end
 
-	#Calculating drivers new total
+
+	#Calculating drivers new total 
 	def drivers_new_total(trip)
 		@new_total_miles = (@new_total_miles + trip.miles_driven.to_f).round
 	end
