@@ -7,7 +7,6 @@ total miles and his own average speed, which makes sense to me. as per SRP.
 
 Similarly, each trip would have a duration and an average speed.
 
-There can be more refactoring and optimizations if given more time (let me know if you wish me to do it).
 -------------------------------------------------------------------------------------------------------------
 
 RUNNING CODE:
